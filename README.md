@@ -29,15 +29,15 @@ Complete any 10 tasks, and you can claim a free month of Scrimba Pro! Here's how
 
 ## 🛠️ Setup & Admin. 10 tasks | 2h 10min
 
-- [ ] 🌳 Add your Scrimba affiliate link to your [Linktree](https://linktr.ee) or bio links with a clear CTA *(5 min)*
+- [x] 🌳 Add your Scrimba affiliate link to your [Linktree](https://linktr.ee) or bio links with a clear CTA *(5 min)*
 - [ ] 📸 Update your [Instagram](https://www.instagram.com/codewithscrimba/) bio. Add "Learning to code with @codewithscrimba" or similar 🌟 *(5 min)*
 - [ ] 💼 Update your **LinkedIn** headline. Add something like "Teaching others to code | Scrimba Student" *(5 min)*
 - [ ] 🎠 Create an [Instagram](https://www.instagram.com/codewithscrimba/) Highlight reel. Save your Scrimba-related stories to a "Coding" or "Scrimba" highlight *(5 min)*
 - [ ] 📌 Pin a Scrimba post to the top of your [X/Twitter](https://twitter.com/scrimba) profile *(10 min)*
-- [ ] 👩‍💻 Set up a [Dev.to](https://dev.to/scrimba) account. Add a bio mentioning you're learning with Scrimba *(15 min)*
+- [x] 👩‍💻 Set up a [Dev.to](https://dev.to/grindstack) account. Add a bio mentioning you're learning with Scrimba *(15 min)*
 - [ ] ✍️ Set up a [Hashnode](https://hashnode.com) blog. Customize your theme and write an intro post about your coding journey *(30 min)*
-- [ ] 🐙 Update your [GitHub](https://github.com) profile README. Add a section about your learning journey and the Scrimba courses you've completed *(20 min)*
-- [ ] 📝 Create a [Medium](https://medium.com) account. Set up your profile with a Scrimba mention and follow relevant coding publications *(15 min)*
+- [x] 🐙 Update your [GitHub](https://github.com/grindstack) profile README. Add a section about your learning journey and the Scrimba courses you've completed *(20 min)*
+- [x] 📝 Create a [Medium](https://medium.com/@fatymah) account. Set up your profile with a Scrimba mention and follow relevant coding publications *(15 min)*
 - [ ] 🎬 Set up a [YouTube](https://www.youtube.com/@scrimba) channel. Create or optimize it for coding content and add Scrimba to your channel description *(20 min)*
 
 ---
